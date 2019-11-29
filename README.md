@@ -30,7 +30,6 @@
 └── yarn.lock  // lock
 
 ```
-####  umi + dva 框架
 
 ### Project setup
 ```
